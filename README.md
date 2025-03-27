@@ -1,7 +1,7 @@
 # A 2048 game written for the terminal
 
 #### UNIX-like only.
-Tested and working on MacOS and Ubuntu
+Tested and working on MacOS and Ubuntu.
 
 To build, use:
 ```bash
