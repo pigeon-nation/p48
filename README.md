@@ -2,7 +2,10 @@
 
 #### UNIX-like only.
 
-To build, use
-`gcc main.c -o p48`
-(or any other compiler of you choice)
+To build, use:
+```bash
+mkdir build
+gcc main.c -o build/p48
+```
+Use any compiler of you choice.
 Then, simply run the compiled binary.
